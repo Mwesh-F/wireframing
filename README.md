@@ -95,3 +95,39 @@ The Figma design in the provided link includes detailed UI elements such as typo
 
 > Understanding the difference between low- and high-fidelity wireframes helps teams choose the right tool for different phases of the design process.
 
+## Wireframing Tools
+
+There are several tools available for creating wireframes, each offering various features to support the design process. Choosing the right tool depends on the complexity of your project, your team’s workflow, and your personal preferences.
+
+### Popular Wireframing Tools
+
+- **Figma**  
+  A powerful cloud-based design tool that allows for real-time collaboration. Widely used for both wireframing and high-fidelity design work.
+
+- **Adobe XD**  
+  A vector-based tool from Adobe that’s used for designing and prototyping user experiences for web and mobile apps.
+
+- **Sketch**  
+  A macOS-based digital design toolkit focused on UI and UX design, often used in tandem with prototyping tools.
+
+- **Balsamiq**  
+  Known for its low-fidelity, sketch-style wireframes. It’s simple and fast, ideal for early-stage conceptualization.
+
+- **Axure RP**  
+  A robust tool for creating interactive wireframes and documentation. More advanced and suitable for complex applications.
+
+---
+
+## Why Figma is Recommended
+
+Figma is a top choice for modern UI/UX design, including wireframing, due to its flexibility and powerful collaboration features.
+
+### Key Features of Figma:
+- **Cloud-Based**: Work on designs from any device, without needing to install software.
+- **Real-Time Collaboration**: Multiple team members can work on the same file simultaneously.
+- **Design + Prototyping**: Create wireframes, high-fidelity designs, and interactive prototypes all in one tool.
+- **Component System**: Reusable design components help maintain consistency and save time.
+- **Cross-Platform**: Works on any operating system with a browser—Windows, macOS, Linux, or Chrome OS.
+
+> Figma’s ease of use and collaborative features make it especially powerful for teams working remotely or across different time zones.
+
