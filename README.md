@@ -27,3 +27,16 @@ Wireframing is a fundamental step in the user interface (UI) and user experience
 ---
 
 > Wireframes can be low-fidelity (basic sketches or outlines) or high-fidelity (detailed mockups), depending on the stage of the project and the level of detail required.
+>
+> ## Key Elements of Wireframing
+
+Wireframes are composed of several essential elements that define how users will interact with a digital product. Understanding these elements helps ensure a clear and user-friendly design.
+
+### 1. Layout Structure
+
+**Definition:**  
+The layout structure refers to the skeletal arrangement of components on a page, such as headers, footers, sidebars, and content areas.
+
+**Example Contribution:**  
+A well-structured layout ensures a logical
+
