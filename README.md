@@ -40,3 +40,58 @@ The layout structure refers to the skeletal arrangement of components on a page,
 **Example Contribution:**  
 A well-structured layout ensures a logical
 
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process and the purpose of the wireframe. The two most common types are low-fidelity and high-fidelity wireframes.
+
+### Low-Fidelity Wireframes
+
+**Definition:**  
+Low-fidelity (lo-fi) wireframes are basic, simplified representations of a layout. They focus on structure and functionality without detailed design elements.
+
+**Characteristics:**
+- Usually in black and white or grayscale
+- Use placeholders for images (e.g., boxes with an "X")
+- No focus on typography, color, or branding
+- Created quickly for brainstorming and concept discussions
+
+**When to Use:**  
+- Early in the design process  
+- When testing layout ideas or user flows  
+- During team brainstorming sessions  
+
+---
+
+### High-Fidelity Wireframes
+
+**Definition:**  
+High-fidelity (hi-fi) wireframes are detailed and closely resemble the final product. They include visual design elements and often simulate user interactions.
+
+**Characteristics:**
+- Accurate representation of layout, fonts, and spacing  
+- Includes images, icons, and detailed UI components  
+- May include clickable elements for user testing  
+- Looks similar to the final product  
+
+**When to Use:**  
+- In later stages of the design process  
+- Before or during user testing  
+- When handing over to developers for implementation  
+
+---
+
+## Figma Wireframe Analysis
+
+**Link Reviewed:**  
+[Project Airbnb – Figma Design](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0)
+
+**Type of Wireframe:**  
+**High-Fidelity Wireframe**
+
+**Explanation:**  
+The Figma design in the provided link includes detailed UI elements such as typography, icons, images, and color schemes. It visually resembles the final product and appears ready for prototyping or handoff to developers. The level of detail and interactivity go beyond structural planning, indicating it is a high-fidelity wireframe.
+
+---
+
+> Understanding the difference between low- and high-fidelity wireframes helps teams choose the right tool for different phases of the design process.
+
