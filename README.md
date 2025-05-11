@@ -156,3 +156,31 @@ Without the distraction of colors, fonts, and images, wireframes help the team f
 ---
 
 > Example: In a hotel booking system, a wireframe of the "Checkout" feature can help developers understand what information to collect (guest details, payment options) and how the user flow should proceed from selection to confirmation.
+
+## Wireframing in Practice
+
+### Real-World Scenario: Hotel Booking System
+
+Imagine a team developing a hotel booking system. During the wireframing phase, the design team created low-fidelity wireframes for the "Room Selection" and "Checkout" pages. While reviewing these wireframes, several usability issues were identified:
+
+- **Unclear Navigation:** Users couldn't easily return to the room selection page after proceeding to checkout.
+- **Missing Price Breakdown:** The total cost shown on the checkout screen lacked a detailed breakdown (e.g., taxes, service fees).
+- **Confusing Date Selection:** The check-in and check-out date fields were placed too close together, causing users to accidentally select the wrong dates.
+
+### How the Issues Were Resolved
+
+- The navigation was updated to include a clear “Back to Room Selection” button.
+- A price breakdown section was added, improving transparency.
+- The date fields were separated visually, with clear labels and a calendar pop-up to reduce confusion.
+
+### Impact on the Final Product
+
+By addressing these usability issues early through wireframing, the development team avoided rework during the coding phase. The final product was more intuitive, leading to:
+
+- Fewer user errors during booking
+- Higher customer satisfaction
+- Improved overall usability
+
+### Conclusion
+
+Wireframing is a critical step in ensuring a user-friendly design. It allows teams to catch and fix usability flaws early, align on layout and functionality, and create a product that meets user needs efficiently. In this case, wireframing helped prevent costly redesigns and ensured a smoother, more intuitive booking experience for users.
